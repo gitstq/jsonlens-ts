@@ -1,0 +1,34 @@
+{
+  "project": {
+    "name": "JSONLens",
+    "version": "1.0.0",
+    "description": "A powerful CLI tool for JSON visualization",
+    "author": {
+      "name": "Developer",
+      "email": "dev@example.com"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gitstq/jsonlens"
+    }
+  },
+  "features": [
+    "tree visualization",
+    "statistics analysis",
+    "diff comparison",
+    "data filtering",
+    "flatten transformation"
+  ],
+  "config": {
+    "theme": "dark",
+    "maxDepth": 10,
+    "colorize": true,
+    "compact": false
+  },
+  "stats": {
+    "downloads": 15234,
+    "stars": 892,
+    "issues": 12,
+    "contributors": 5
+  }
+}
